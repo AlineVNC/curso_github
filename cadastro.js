@@ -6,5 +6,5 @@ function signUp(email){
 
 
 function mostraMensagem(){
-    return 'Bem vindo ao sistema';
+    return 'Bem vindooo ao sistema';
 }
